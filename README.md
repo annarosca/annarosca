@@ -2,4 +2,4 @@
 
 ### I'm Anna Rossetti, a software engineer living and working in England, UK.
 
-I enjoy building useful and/or whimsical things for web & mobile.
+I build things for web & mobile.
